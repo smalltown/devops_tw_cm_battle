@@ -1,0 +1,9 @@
+[submodule "chef_dev_env"]
+	path = chef_dev_env
+	url = git@github.com:smalltown/devops_tw_chef_dev_env.git
+[submodule "lemp"]
+	path = lemp
+	url = git@github.com:smalltown/devops_tw_lemp.git
+[submodule "chef_nodes"]
+	path = chef_nodes
+	url = git@github.com:smalltown/devops_tw_chef_nodes.git
